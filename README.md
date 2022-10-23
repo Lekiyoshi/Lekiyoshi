@@ -1,4 +1,14 @@
-### Hi there 👋
+Dreaming of data structures, algorithmically parsing their arcane thoughts...&ensp;
+![](img/gif/tavis.gif)
+![](img/gif/colette.gif)
+![](img/gif/hansen.gif)
+
+***
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lekiyoshi&custom_title=Lekiyoshi%27s%20GitHub%20Stats&theme=blue-green&show_icons=true&include_all_commits=true&card_width=390" height="190" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lekiyoshi&theme=blue-green&layout=compact&langs_count=7" height="190" alt="Most Used Languages" />
+</div>
 
 <!--
 **Lekiyoshi/Lekiyoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
