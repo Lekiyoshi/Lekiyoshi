@@ -1,26 +1,11 @@
-Dreaming of data structures, algorithmically parsing their arcane thoughts...&ensp;
-![](img/gif/tavis.gif)
-![](img/gif/colette.gif)
-![](img/gif/hansen.gif)
+Dreaming algorithmically, parsing their arcane thoughts...
+![](img/gif/tavis.gif)![](img/gif/colette.gif)![](img/gif/hansen.gif)
 
 ***
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lekiyoshi&custom_title=Lekiyoshi%27s%20GitHub%20Stats&theme=blue-green&show_icons=true&include_all_commits=true&card_width=390" height="190" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lekiyoshi&theme=blue-green&layout=compact&langs_count=7" height="190" alt="Most Used Languages" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lekiyoshi&custom_title=Lekiyoshi%27s%20GitHub%20Stats&theme=blue-green&show_icons=true&include_all_commits=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lekiyoshi&theme=blue-green&layout=compact)
+
 </div>
-
-<!--
-**Lekiyoshi/Lekiyoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
